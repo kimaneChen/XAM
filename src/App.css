@@ -1,10 +1,6 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  margin-top:10%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -13,7 +9,7 @@
   }
 }
 
-.App-header {
+/* .App-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,16 +20,4 @@
 
 .App-link {
   color: rgb(112, 76, 182);
-}
-
-@keyframes App-logo-float {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
-}
+} */

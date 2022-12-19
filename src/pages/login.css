@@ -1,0 +1,33 @@
+.form_container{
+  margin: auto;
+  width: 30%; 
+  border:2px solid black;
+  padding:20px;
+}
+.input_container{
+  flex: true;
+  flex-direction: column;
+}
+.input_item{
+  margin-top: 15px;
+  border: 0;
+}
+.input_content{
+  border: 2;
+  border-color: black;
+  height: 30px;
+  margin-top:15px;
+  width:90%;
+  min-width: 120px;
+}
+
+.submit_button{
+  margin-top: 15px;
+  width:92%;
+  height:30px;
+  border-radius: 6px;
+  background-color:skyblue;
+  font-weight: bold;
+  border:0;
+}
+
