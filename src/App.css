@@ -1,13 +1,12 @@
 .App {
   text-align: center;
-  margin-top:10%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-float infinite 3s ease-in-out;
   }
-}
+} 
 
 /* .App-header {
   min-height: 100vh;

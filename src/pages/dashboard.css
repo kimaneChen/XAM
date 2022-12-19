@@ -1,0 +1,37 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  margin:40px;
+}
+.logout_button {
+  background-color:skyblue;
+  border-radius:8px;
+  border:0;
+  height:40px;
+  font-weight: 900;
+}
+
+.layout_container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.layout_left{
+  flex-basis: 40%;
+}
+
+.layout_right{
+  flex-basis: 60%;
+}
+
+.layout_right table{
+  width: 98%;
+}
+
+.layout_right table, th, td, tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
